@@ -2,6 +2,12 @@
 
 This app describes that user will give the inout of medicine name, quantity & time for medicine to take and and website accordingly send the reimdiners
 
+System Design: 
+
+
+![WhatsApp Image 2023-06-12 at 21 53 27](https://github.com/vipulmane6498/Medicine-Reminder-App/assets/113690721/59ff5a7e-2104-4b6d-9ad3-8a9eb2f11af2)
+
+
 ![Uploading WhatsApp Image 2023-06-12 at 21.53.27.jpg…]()
 
 1. Home Page 
