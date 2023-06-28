@@ -1,12 +1,15 @@
 #Medicine-Reminder-App
 
-This app describes that user will give the input of medicine name, quantity & time for medicine to take and accordingly website will send the reminders.
+This app describes that petient will give the input of medicine names, quantities & time for medicines to take and accordingly website will send the reminders.
+
+In this web page I have used HTML, CSS & JavaScript tehnologies.
+
+Link to access: https://vipulmane6498.github.io/Medicine-Reminder-App/
 
 System Design: 
 
 
 ![WhatsApp Image 2023-06-12 at 21 53 27](https://github.com/vipulmane6498/Medicine-Reminder-App/assets/113690721/59ff5a7e-2104-4b6d-9ad3-8a9eb2f11af2)
-
 
 
 1. Home Page:
