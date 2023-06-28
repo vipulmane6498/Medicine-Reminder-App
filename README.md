@@ -2,7 +2,7 @@
 
 This app describes that petient will give the input of medicine names, quantities & time for medicines to take and accordingly website will send the reminders.
 
-In this web page I have used HTML, CSS & JavaScript tehnologies.
+To create this web page I have used HTML, CSS & JavaScript tehnologies.
 
 Link to access: https://vipulmane6498.github.io/Medicine-Reminder-App/
 
