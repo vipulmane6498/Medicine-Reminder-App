@@ -4,7 +4,7 @@ This app describes that patient will give the input of medicine names, quantitie
 
 To create this web page I have used HTML, CSS & JavaScript tehnologies.
 
-Link to access: https://vipulmane6498.github.io/Medicine-Reminder-App/
+Link to access Web: https://vipulmane6498.github.io/Medicine-Reminder-App/
 
 System Design: 
 
