@@ -1,6 +1,6 @@
 #Medicine-Reminder-App
 
-This app describes that petient will give the input of medicine names, quantities & time for medicines to take and accordingly website will send the reminders.
+This app describes that patient will give the input of medicine names, quantities & time for medicines to take and accordingly website will send the reminders.
 
 To create this web page I have used HTML, CSS & JavaScript tehnologies.
 
